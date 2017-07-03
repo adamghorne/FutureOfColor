@@ -5,7 +5,7 @@
 
 Built using [Cheap Bots Done Quick][1], inspired by [Soft Landscapes][2] and deployed [@FutureOfColor][3].
 
-
+All scripts are in Tracery JSON format.
 
 
 
