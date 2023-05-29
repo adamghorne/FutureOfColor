@@ -1,7 +1,7 @@
 
-# Future of Colo(u)r
+# Say hello to [@Color][3]
 
-**A fun little Twitter bot, designed to randomly generate magical gradients based on speculative new colours.**
+**A fun little ~~Twitter~~ Mastodon bot, designed to randomly generate magical gradients based on speculative new colours.**
 
 Built using [Cheap Bots Done Quick][1], inspired by [Soft Landscapes][2] and deployed [botsin.space/@color][3].
 
