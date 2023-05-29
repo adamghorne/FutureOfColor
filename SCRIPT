@@ -7,9 +7,9 @@
    "P3": ["1","2","3","4","5","6","7","8","9","0" ],
    "P4": ["U","C" ],
 
-    "P5": ["Mystic","Awkward","Summer","Gentle","Winter","Distant","Teenage","Uncle","Stunning","Nouveau","Ethereal","Nomadic","Wondering","Optimistic","Old-School","Shocking","Screaming","Distorted","Remixed","Spirit of","Old Man","Funky","Bright","Discreet","Boring","Enjoyable","Weekend","Stormy","Loving","Careful","Midnight","Berlin","Vegas","Seductive","Daring","Conversational","Fat","German","DJ","The","Absolute"],
+    "P5": ["Mystic","Awkward","Summer","Gentle","Winter","Distant","Teenage","Uncle","Stunning","Nouveau","Ethereal","Nomadic","Wondering","Optimistic","Old-School","Shocking","Screaming","Distorted","Remixed","Spirit of","Old Man","Funky","Bright","Discreet","Boring","Enjoyable","Weekend","Stormy","Loving","Careful","Midnight","Berlin","Vegas","Seductive","Daring","Conversational","Fat","German","DJ","The","Absolute","Salty","Shivering","Brown","Electrical","New","Zany","Statuesque","Mean","Latter","Clammy","Public","Rural","Broken","Cultural","Purring","True","Realistic","Rhetorical","Late","Jobless","Squalid","Tame","Unique","Superficial","Gentle","Dashing","Rabid","Broad","Exciting","Certain","Troubled","Rapid","Parsimonious","Rebel","Peaceful","Verdant","Harmonious","Warlike","Understood"],
 
-    "P6": ["Divorce","Student Party","Carpark","Waterfall","Break-Up","Gazpacho","Cock-Ring","Anxiety","Pigeon","Morning After Pill","Booze Hound","Notion","Marketer","Fuckboy","Second Marriage","Crowd Pleaser","Melancholy","Ghost","Shaman","Guardian","Waiting Room","First Date","Lawsuit","Client Presentation","Courtroom","Emergency Room","Sauna","Panic Room","Wine Cellar","Yacht","Dudeism","President Trump","Gaga Fan","Non-Conformism","Marie Le Pen","Fancypants ","Monkey Man","Songbird","Co-Pilot","Bartender","Adultery","Cheerleader","Complexity","Eye","Mistake","Volleyballer","Pessimist","Philosopher","Priest","Flight Delay","Prisoner","Puberty","Panic Attack","Lust","Dreaming"],
+    "P6": ["Divorce","Student Party","Carpark","Waterfall","Break-Up","Gazpacho","Cock-Ring","Anxiety","Pigeon","Morning After Pill","Booze Hound","Notion","Marketer","Fuckboy","Second Marriage","Crowd Pleaser","Melancholy","Ghost","Shaman","Guardian","Waiting Room","First Date","Lawsuit","Client Presentation","Courtroom","Emergency Room","Sauna","Panic Room","Wine Cellar","Yacht","Dudeism","President Trump","Gaga Fan","Non-Conformism","Marie Le Pen","Fancypants ","Monkey Man","Songbird","Co-Pilot","Bartender","Adultery","Cheerleader","Complexity","Eye","Mistake","Volleyballer","Pessimist","Philosopher","Priest","Flight Delay","Prisoner","Puberty","Panic Attack","Lust","Dreaming","Package", "Buns", "Sausage", "Proust", "Vibe", "Fox", "Salad", "Thrust", "Safe-word", "Docking", "Elevator", "Cigarette", "Queen", "Fig", "Tooth", "Blood Test", "Examination", "Situation", "Tooth", "Nature", "Professor", "Funeral", "Car Park", "Cousin", "Way", "Boobyalla", "Dreamhole", "Player", "Absentmindedness", "Fascism", "Activist", "Preconception", "Filmmaker", "Foxiness", "Randomness", "Baptism", "Habit", "Chaos"],
 
 	"origin2": ["#preface##defs##bg##mountains##clouds##ending#"],
 
@@ -72,6 +72,7 @@
 	"gradpoints":["x1=\"0\" x2=\"1\" y1=\"#gradpoint#\" y2=\"#gradpoint#\"", "y1=\"0\" y2=\"1\" x1=\"#gradpoint#\" x2=\"#gradpoint#\""],
 	"radialgradpoints":["cx=\"0\" cy=\"#gradpoint#\" r=\"1.#digit#\"", "cy=\"0\" cx=\"#gradpoint#\" r=\"1.#digit#\""],
 	"color":["\\##hexdigit##hexdigit##hexdigit##hexdigit##hexdigit##hexdigit#"],
+
 	"color_light":["\\##highhex##hexdigit##highhex##hexdigit##highhex##hexdigit#"],
 	"gradpoint":["0.#digit##digit#"],
 	
@@ -82,10 +83,10 @@
 	"1-3":["3","1","2"],
 	"0-5":["0","1","2","3","4","5"],
 	"4-9":["4","5","6","7","8","9"],
-	"hexdigit":["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f"],
+	"hexdigit":["6","7","8","9","a","b","c","d","e","f"],
 	"highhex":["a","b","c","d","e","f"],
-	"baseopacity":["0#digit#", "0#digit#", "0#digit#", "1#digit#","1#digit#","1#digit#","2#digit#","2#digit#","2#digit#","3#digit#","7#digit#","9#digit#"],
-	"opacity":[".0#digit#", ".0#digit#", ".0#digit#", ".1#digit#",".1#digit#",".1#digit#",".2#digit#",".2#digit#"],
+	"baseopacity":["0.1","0.1","0.3"],
+	"opacity":["0.1","0.1","0.3","4"],
 	"basew":"1024",
 	"basew+200":"1224",
 	"baseh":"512" 
